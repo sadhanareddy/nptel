@@ -1,0 +1,5 @@
+computer organization: http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/about
+computer Linguistics: http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE23+Anytime/about
+computer programming: http://cse02-iiith.vlabs.ac.in/
+computer graphics: http://cse02-iiith.vlabs.ac.in/
+computer organization and architecture: http://vlabs.iitkgp.ernet.in/coa/
